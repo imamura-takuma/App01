@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {   // アプリ本体であ
 
     private TextView text1;     // TextViewの変数 text1 を用意
     private TextView text2;     // TextViewの変数 text2 を用意
-    private TextView text3;
+    private TextView text3;     // TextViewの変数 text3 を用意
     private Button btn1;        // Buttonの変数 btn1 を用意
     private Button btn2;        // Buttonの変数 btn2 を用意
     private Button btn3;
